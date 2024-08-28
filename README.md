@@ -59,5 +59,3 @@ Finally, the laravel server will be at
 phpMyAdmin will be at
 
     localhost:8081
-# laravel-with-docker-setup
-# laravel-with-docker-setup
