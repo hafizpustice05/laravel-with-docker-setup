@@ -1,4 +1,4 @@
-# Welcome to eCare Backend!
+# Laravel with docker setup!
 
 To run this project you simply need to have docker and docker-compose installed in your system. Any dependency of php, composer, MySql, phpMyAdmin is not mandatory
 
